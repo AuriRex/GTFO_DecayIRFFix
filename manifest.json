@@ -1,0 +1,10 @@
+{
+  "name": "Decay_IRF_NRE_Fix",
+  "author": "AuriRex",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/AuriRex/GTFO_DecayIRFFix/",
+  "description": "Fixes the immortal (tank_boss) spamming the console with NullReferenceExceptions whenever its corpse is despawning.",
+  "dependencies": [
+    "BepInEx-BepInExPack_GTFO-3.2.1"
+  ]
+}

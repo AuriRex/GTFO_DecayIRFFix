@@ -2,8 +2,8 @@
     <Import Project="Dependencies.props" />
     
     <PropertyGroup>
-        <RootNamespace>DecayIRFFix</RootNamespace>
-        <AssemblyName>DecayIRFFix</AssemblyName>
+        <RootNamespace>DecayIRFNREFix</RootNamespace>
+        <AssemblyName>DecayIRFNREFix</AssemblyName>
         
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>

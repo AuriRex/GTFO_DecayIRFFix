@@ -4,7 +4,7 @@ using HarmonyLib;
 using IRF;
 using UnityEngine;
 
-namespace DecayIRFFix;
+namespace DecayIRFNREFix;
 
 [HarmonyPatch(typeof(EnemyPrefabManager), nameof(EnemyPrefabManager.BuildEnemyPrefab))]
 public static class EnemyPrefabManagerPatch
